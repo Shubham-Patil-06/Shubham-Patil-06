@@ -19,7 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Patil-06&layout=compact&theme=radical)  
 
 ### 🚀 Featured Projects  
-🔹 **Movie Recommendation System** - Built using Django & Collaborative Filtering  
+🔹 **Chopchop Food Delivery App** - Built using Django, ReactJs & PostgreSQL
 🔹 **Spotify Clone** - A Django-React music streaming app  
 🔹 **Stock Price Prediction App** - Predicting stock trends using AI  
 
