@@ -1,32 +1,50 @@
-# 🚀 Shubham Patil | Software Developer  
+# 👋 Hi, I'm Shubham Patil
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shubham-Patil-06&style=flat-square)  
+**Full Stack Developer | Machine Learning Enthusiast**
 
-### 👨‍💻 About Me  
-🔹 Passionate Full-Stack Developer | AI & ML Enthusiast  
-🔹 Love building scalable web applications  
-🔹 Exploring Django, React, and AI-based projects  
+🚀 Passionate about building scalable web applications and integrating intelligent machine learning solutions. I enjoy working across the stack, from crafting responsive frontends to developing robust backends and deploying ML models.
 
-### 🛠 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+---
 
-### 📈 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Patil-06&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Patil-06&layout=compact&theme=radical)  
+## 🛠️ Tech Stack
 
-### 🚀 Featured Projects  
-🔹 **Chopchop Food Delivery App** - Built using Django, ReactJs & PostgreSQL
-(https://chopchopfooddelivery.netlify.app/login)
-🔹 **Spotify Clone** - A Django-React music streaming app  
-🔹 **Stock Price Prediction App** - Predicting stock trends using AI  
+- **Languages:** Python, JavaScript, Java
+- **Frontend:** React, Tailwind CSS, HTML, CSS
+- **Backend:** Django, REST APIs
+- **Machine Learning:** TensorFlow, Scikit-learn, Pandas, NumPy
+- **Databases:** PostgreSQL, MySQL
+- **Tools & Platforms:** Git, GitHub, Docker, Netlify, Render
 
-### 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-patil-06nov2002)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
+---
 
+## 📌 Featured Projects
 
+### [ChopChop – Food Delivery App](https://chopchopfooddelivery.netlify.app/login)
+- **Tech Stack:** Django, React, PostgreSQL
+- **Features:** JWT authentication, Razorpay payment integration, responsive UI, admin dashboard, order tracking.
+
+### [Spotify Clone](#)
+- **Tech Stack:** Django, React
+- **Description:** A music streaming application mimicking Spotify's core functionalities.
+
+### [Stock Price Prediction App](#)
+- **Tech Stack:** Python, Machine Learning
+- **Description:** Predicts stock trends using advanced AI algorithms.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Patil-06&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Patil-06&layout=compact)
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [Shubham Patil](https://www.linkedin.com/in/shubham-patil-039aa135a/)
+- **Portfolio:** [shubhampatil-portfolio.netlify.app](https://shubhampatil-portfolio.netlify.app/)
+- **Instagram:** [_.shubh._.patil._](https://www.instagram.com/_.shubh._.patil._/)
+
+Feel free to reach out for collaboration, project discussions, or just a tech chat!
 
