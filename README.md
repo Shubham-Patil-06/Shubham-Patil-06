@@ -43,7 +43,7 @@
 ## 📫 Let's Connect
 
 - **LinkedIn:** [Shubham Patil](https://www.linkedin.com/in/shubham-patil-039aa135a/)
-- **Portfolio:** [shubhampatil-portfolio.netlify.app](https://shubhampatil-portfolio.netlify.app/)
+- **Portfolio:** [shubhampatil-portfolio.netlify.app](https://main.d242okr5fwywlh.amplifyapp.com/)
 - **Instagram:** [_.shubh._.patil._](https://www.instagram.com/_.shubh._.patil._/)
 
 Feel free to reach out for collaboration, project discussions, or just a tech chat!
